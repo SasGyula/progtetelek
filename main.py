@@ -1,5 +1,5 @@
 import eldontes
 import osszegzes
 
-#osszegzes.osszegzes()
+# osszegzes.osszegzes()
 eldontes.eldontes()
