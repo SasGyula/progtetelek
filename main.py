@@ -1,5 +1,4 @@
-import eldontes
-import osszegzes
+import megszamlalas
 
-# osszegzes.osszegzes()
-eldontes.eldontes()
+megszamlalas.megszamlalas()
+megszamlalas.megszamlalasFor()
